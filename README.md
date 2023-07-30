@@ -23,7 +23,7 @@ To use the horizontal parallax effect in your project, follow these steps:
 1. Download the repository as a ZIP file or clone it using the following command:
 
    ```bash
-   git clone https://github.com/your-username/horizontal-parallax.git
+   git clone https://github.com/abdul-1432/horizontal-parallax.git
    ```
 
 2. Copy the necessary files (HTML, CSS, and JavaScript) to your project directory.
